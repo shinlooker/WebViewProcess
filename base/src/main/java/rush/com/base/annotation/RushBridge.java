@@ -1,4 +1,4 @@
-package common.rush.com.annotation;
+package rush.com.base.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

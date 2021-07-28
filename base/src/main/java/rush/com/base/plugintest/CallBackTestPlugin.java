@@ -6,7 +6,8 @@ import android.text.TextUtils;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import common.rush.com.annotation.RushBridge;
+
+import rush.com.base.annotation.RushBridge;
 import rush.com.base.cmd.Command;
 import rush.com.base.cmd.ResultCallback;
 

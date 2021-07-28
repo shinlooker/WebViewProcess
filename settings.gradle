@@ -1,1 +1,1 @@
-include ':app', ':base', ':webkit', ':annotation', ':pluginapi'
+include ':app', ':base', ':webkit', ':pluginapi'

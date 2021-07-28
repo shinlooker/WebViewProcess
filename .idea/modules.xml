@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebViewDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/WebViewDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PluginProcessor/WebViewDemo.PluginProcessor.iml" filepath="$PROJECT_DIR$/.idea/modules/PluginProcessor/WebViewDemo.PluginProcessor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/annotation/WebViewDemo.annotation.iml" filepath="$PROJECT_DIR$/.idea/modules/annotation/WebViewDemo.annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WebViewDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WebViewDemo.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/base/WebViewDemo.base.iml" filepath="$PROJECT_DIR$/.idea/modules/base/WebViewDemo.base.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pluginapi/WebViewDemo.pluginapi.iml" filepath="$PROJECT_DIR$/.idea/modules/pluginapi/WebViewDemo.pluginapi.iml" />

@@ -2,7 +2,8 @@ package rush.com.base.plugin;
 
 import android.content.Context;
 
-import common.rush.com.annotation.RushBridge;
+
+import rush.com.base.annotation.RushBridge;
 import rush.com.base.cmd.Command;
 import rush.com.base.cmd.ResultCallback;
 

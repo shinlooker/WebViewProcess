@@ -5,7 +5,8 @@ import android.os.Handler;
 import android.os.Looper;
 import android.widget.Toast;
 
-import common.rush.com.annotation.RushBridge;
+
+import rush.com.base.annotation.RushBridge;
 import rush.com.base.cmd.Command;
 import rush.com.base.cmd.ResultCallback;
 
